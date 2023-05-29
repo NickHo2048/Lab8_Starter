@@ -11,6 +11,6 @@ In this way, code is automatically tested everytime you push. You don't need to 
 
 4. Yes; the goal is more specific: is the message more or less than 80 characters. We are looking at a very small scale feature with maybe one or two moving parts, which is the point of unit tests.
 
-[](lab8.test.png)
-[](sum.test.png)
-[](unit.test.png)
+![](lab8.test.png)
+![](sum.test.png)
+![](unit.test.png)
